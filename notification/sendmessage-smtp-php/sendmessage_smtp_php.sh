@@ -12,7 +12,7 @@
 
 mb_language("japanese");
 mb_internal_encoding("JIS");
-require("phpmailer/class.phpmailer.php");
+require("phpmailer/PHPMailerAutoload.php");
 
 
 /* setting */
